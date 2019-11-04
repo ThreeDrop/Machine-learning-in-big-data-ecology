@@ -4,6 +4,6 @@ Here are scripts for applying Random Forest on plot-level soil heterotrophic res
 
 (1 training random forest with potential explanatory variables (quantile regression forest)
 
-(2 leave-one-out cross validation to assess the performance of 
+(2 leave-one-out cross validation to assess the performance of trained RF models
 
 (3 applying the trained RF model on gridded explanatory variables 
